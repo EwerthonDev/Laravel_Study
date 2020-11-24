@@ -13,6 +13,7 @@ Composer;
 MySQL 8;
 
 ## Instalação
+
 1- Após baixar o projeto, rode o "Composer Install" por conta da pasta Vendor;
 
 2- No localhost (porta 3306, username:root e senha:root), crie um banco de dados chamado "laravel";
